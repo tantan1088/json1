@@ -12,5 +12,13 @@
       "content": "Wow such content!",
       "username": "zero_cool"
     }
+  ],
+  "users" : [
+    {
+      "id" : 0,
+      "hoten" : "Bùi Quang Tân",
+      "stk" : "123",
+      "nickname" : "tantan1088"
+    }
   ]
 }
