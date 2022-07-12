@@ -15,10 +15,10 @@
   ],
   "users" : [
     {
-      "id" : 0,
-      "hoten" : "Bùi Quang Tân",
-      "stk" : "123",
-      "nickname" : "tantan1088"
+      id : 0,
+      hoten : "Bùi Quang Tân",
+      stk : "123",
+      nickname : "tantan1088"
     }
   ]	
 }
