@@ -28,6 +28,16 @@
       "tuoi" : "25",
       "sdt" : "0123456789",
       "ngayOnboard" : "20-10-1999"
+    },
+  "usersDuc" : [
+    {
+      "id" : 0,
+      "logo" : "logo.img",
+      "bankname" : "shb",
+      "receiver" : "nam",
+      "numberCard" : "123456789",
+      "money" : "1000000",
+      "dTransaction" : "test"
     }
   ]	
 }
