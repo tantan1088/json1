@@ -33,10 +33,28 @@
   "usersDuc" : [
     {
       "id" : 0,
-      "logo" : "logo.img",
-      "bankname" : "shb",
+      "logo" : "logo_shb.png",
+      "bankName" : "shb",
       "receiver" : "nam",
-      "numberCard" : "123456789",
+      "accountNumber" : "123456789",
+      "money" : "1000000",
+      "dTransaction" : "test"
+    },
+    {
+      "id" : 1,
+      "logo" : "logo_tech2.png",
+      "bankName" : "shb",
+      "receiver" : "nam",
+      "accountNumber" : "123456789",
+      "money" : "1000000",
+      "dTransaction" : "test"
+    },
+    {
+      "id" : 2,
+      "logo" : "logo.img",
+      "bankName" : "shb",
+      "receiver" : "nam",
+      "accountNumber" : "123456789",
       "money" : "1000000",
       "dTransaction" : "test"
     }
