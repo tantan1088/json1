@@ -42,21 +42,21 @@
     },
     {
       "id" : 1,
-      "logo" : "logo_tech2.png",
-      "bankName" : "shb",
-      "receiver" : "nam",
-      "accountNumber" : "123456789",
-      "money" : "1000000",
-      "dTransaction" : "test"
+      "logo" : "logo_tech_2.png",
+      "bankName" : "Techcombank",
+      "receiver" : "Tuấn",
+      "accountNumber" : "06848818151",
+      "money" : "5000000",
+      "dTransaction" : "nhan tien"
     },
     {
       "id" : 2,
-      "logo" : "logo.img",
-      "bankName" : "shb",
-      "receiver" : "nam",
-      "accountNumber" : "123456789",
-      "money" : "1000000",
-      "dTransaction" : "test"
+      "logo" : "logo_vp.png",
+      "bankName" : "VP Bank",
+      "receiver" : "Trung",
+      "accountNumber" : "013598448718",
+      "money" : "2000000",
+      "dTransaction" : "chuyen tien"
     }
   ]	
 }
