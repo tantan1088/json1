@@ -42,7 +42,46 @@
       "note" : "Tổng tài sản",
       "type" : "2"
     }
-  ],
+  ]
+  ,
+  "finance_target_category" : [
+    {
+      "id": 1,
+      "name": "Ô tô",
+      "status": "true",
+      "note": ""
+      "image_url": ""
+     },
+     {
+          "id": 2,
+          "name": "Nhà",
+          "status": "true",
+          "note": ""
+          "image_url": ""
+     },
+     {
+          "id": 3,
+          "name": "Bảo hiểm",
+          "status": "true",
+          "note": ""
+          "image_url": ""
+     },
+     {
+          "id": 4,
+          "name": "Trái phiếu",
+         "status": "true",
+          "note": ""
+          "image_url": ""
+     },
+     {
+          "id": 5,
+          "name": "Khác",
+          "status": "true",
+          "note": ""
+          "image_url": ""
+     }
+  ]
+  ,
   "users" : [
     {
       "id" : 0,
