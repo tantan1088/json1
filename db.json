@@ -286,5 +286,64 @@
       "money" : "2000000",
       "dTransaction" : "chuyen tien"
     }
-  ]	
+  ],
+  "TestDataDuc" : [
+    {
+      "id" : 0,
+      "termCode" : "3.8",
+      "termName" : "3.8"
+    },
+    {
+      "id" : 1,
+      "termCode" : "4.0",
+      "termName" : "4.0"
+    },
+    {
+      "id" : 2,
+      "termCode" : "5.7",
+      "termName" : "5.7"
+    },
+    {
+      "id" : 3,
+      "termCode" : "5.85",
+      "termName" : "5.85"
+    },
+    {
+      "id" : 4,
+      "termCode" : "6.4",
+      "termName" : "6.4"
+    },
+    {
+      "id" : 5,
+      "termCode" : "6.5",
+      "termName" : "6.5"
+    },
+    {
+      "id" : 6,
+      "termCode" : "6.6",
+      "termName" : "6.6"
+    },
+    {
+      "id" : 7,
+      "termCode" : "6.6",
+      "termName" : "6.6"
+    }
+  ],
+  "TestDataDuc1" : [
+    {
+      "id" : 0,
+      "formalityCode" : "ROLL|ROLL|",
+      "formalityName" : "Chuyển gốc và lãi sang kỳ hạn mới"
+    },
+    {
+      "id" : 1,
+      "formalityCode" : "ROLL|CASA|",
+      "formalityName" : "Chuyển gốc sang kỳ hạn mới, lãi trả vào TKTT"
+    },
+    {
+     "id" : 2,
+      "formalityCode" : "CASA|CASA| ",
+      "formalityName" : "Không gửi tiếp, chuyển gốc và lãi trả vào TKTT"
+    }
+  ]			
 }
