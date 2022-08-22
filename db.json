@@ -345,5 +345,87 @@
       "formalityCode" : "CASA|CASA| ",
       "formalityName" : "Không gửi tiếp, chuyển gốc và lãi trả vào TKTT"
     }
+  ],
+  "getListTenure" : [
+    {
+    "id" : 0,    
+    "prodCD": "438",
+    "ccyCD": "704",
+    "tenure": "1.0",
+    "unitTenure": "M",
+    "finalRate": "3.8"
+  },
+  {
+    "id" : 1,  
+    "prodCD": "438",
+    "ccyCD": "704",
+    "tenure": "3.0",
+    "unitTenure": "M",
+    "finalRate": "4.0"
+  },
+  {
+    "id" : 2,  
+    "prodCD": "438",
+    "ccyCD": "704",
+    "tenure": "6.0",
+    "unitTenure": "M",
+    "finalRate": "5.7"
+  },
+  { 
+    "id" : 3,  
+    "prodCD": "438",
+    "ccyCD": "704",
+    "tenure": "9.0",
+    "unitTenure": "M",
+    "finalRate": "5.85"
+  },
+  {
+    "id" : 4,  
+    "prodCD": "438",
+    "ccyCD": "704",
+    "tenure": "12.0",
+    "unitTenure": "M",
+    "finalRate": "6.4"
+  },
+  {
+    "id" : 5,    
+    "prodCD": "438",
+    "ccyCD": "704",
+    "tenure": "13.0",
+    "unitTenure": "M",
+    "finalRate": "6.5"
+  },
+  {
+    "id" : 6,  
+    "prodCD": "438",
+    "ccyCD": "704",
+    "tenure": "3.0",
+    "unitTenure": "M",
+    "finalRate": "6.0"
+  },
+  {
+    "id" : 7,  
+    "prodCD": "438",
+    "ccyCD": "704",
+    "tenure": "18.0",
+    "unitTenure": "M",
+    "finalRate": "6.6"
+  },
+  {
+    "id" : 8, 
+    "prodCD": "438",
+    "ccyCD": "704",
+    "tenure": "2.0",
+    "unitTenure": "Y",
+    "finalRate": "6.6"
+  },
+  {
+    "id" : 9, 
+    "prodCD": "704",
+    "ccyCD": "704",
+    "tenure": "3.0",
+    "unitTenure": "Y",
+    "finalRate": "6.6"
+  }
   ]			
 }
