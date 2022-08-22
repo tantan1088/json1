@@ -329,7 +329,7 @@
       "termName" : "6.6"
     }
   ],
-  "TestDataDuc1" : [
+  "getListFormality" : [
     {
       "id" : 0,
       "formalityCode" : "ROLL|ROLL|",
