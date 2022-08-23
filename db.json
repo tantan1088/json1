@@ -439,6 +439,17 @@
       "accountStatus" : "ACTIVE",
       "odStatus" : "A",
       "holderStatus" : "1"
+    },
+    {
+      "id" : 1,
+      "accountNo" : "1019801367",
+      "cifNo" : "0116903219",
+      "avaiableBalance" : "10000000",
+      "currencyCode" : "704",
+      "currencyName" : "VND",
+      "accountStatus" : "ACTIVE",
+      "odStatus" : "A",
+      "holderStatus" : "1"
     }
   ]
 }
