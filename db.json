@@ -1,46 +1,15 @@
 {
-  "assets":[
+  "getListAccount " : [
     {
-      "id" : 1,
-      "name": "Số dư tài khoản",
-      "amount" : "10000000",
-      "note" : "Số dư tài khoản",
-      "type" : "1"
-    },
-    {
-      "id" : 2,
-      "name": "Trái phiếu",
-      "amount" : "20000000",
-      "note" : "Trái phiếu",
-      "type" : "1"
-    },
-    {
-      "id" : 3,
-      "name": "Sổ tiết kiệm",
-      "amount" : "100000000",
-      "note" : "Sổ tiết kiệm",
-      "type" : "1"
-    },
-    {
-      "id" : 4,
-      "name": "Bất động sản",
-      "amount" : "1000000000",
-      "note" : "Bất động sản",
-      "type" : "1"
-    },
-    {
-      "id" : 5,
-      "name": "Khác",
-      "amount" : "0",
-      "note" : "Khác",
-      "type" : "1"
-    },
-    {
-      "id" : 6,
-      "name": "Tổng tài sản",
-      "amount" : "1130000000000",
-      "note" : "Tổng tài sản",
-      "type" : "2"
+      "id" : 0,
+      "accountNo" : "1019801367",
+      "cifNo" : "0116903219",
+      "avaiableBalance" : "10000000",
+      "currencyCode" : "704",
+      "currencyName" : "VND",
+      "accountStatus" : "ACTIVE",
+      "odStatus" : "A",
+      "holderStatus" : "1"
     }
   ]
   ,
@@ -427,29 +396,5 @@
     "unitTenure": "Y",
     "finalRate": "6.6"
   }
-  ],
-  "getListAccount " : [
-    {
-      "id" : 0,
-      "accountNo" : "1019801367",
-      "cifNo" : "0116903219",
-      "avaiableBalance" : "10000000",
-      "currencyCode" : "704",
-      "currencyName" : "VND",
-      "accountStatus" : "ACTIVE",
-      "odStatus" : "A",
-      "holderStatus" : "1"
-    },
-    {
-      "id" : 1,
-      "accountNo" : "1019801367",
-      "cifNo" : "0116903219",
-      "avaiableBalance" : "10000000",
-      "currencyCode" : "704",
-      "currencyName" : "VND",
-      "accountStatus" : "ACTIVE",
-      "odStatus" : "A",
-      "holderStatus" : "1"
-    }
   ]
 }
